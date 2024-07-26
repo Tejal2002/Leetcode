@@ -15,3 +15,6 @@ class Solution(object):
             result += word1[len(word2):]
         
         return result 
+
+        #using list 
+        
