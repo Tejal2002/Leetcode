@@ -12,7 +12,7 @@ class Solution(object):
         :type list2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-
+        
         dummy = ListNode()
         tail = dummy 
 
