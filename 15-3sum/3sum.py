@@ -14,7 +14,7 @@ class Solution(object):
 
             l,r = i+1 , len(nums)-1
             while l<r :
-                #Again testing purpose
+                
                 threesum = a +  nums[l] + nums[r]
 
                 if threesum < 0:
